@@ -5,7 +5,7 @@
 
 <h1 align="center" id="heading">Session 1: Introduction and Vibe Check</h1>
 
-### [Quicklinks](https://github.com/AI-Maker-Space/AIE5/00_AIM_Quicklinks)
+### [Quicklinks](https://github.com/AI-Maker-Space/AIE6/00_AIM_Quicklinks)
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
