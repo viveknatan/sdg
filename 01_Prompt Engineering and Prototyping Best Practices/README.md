@@ -18,7 +18,7 @@ In the following assignment, you are required to take the app that you created f
 
 You will be required to submit a link to your GitHub, as well as screenshots of the completed "vibe checks" through the provided Google Form!
 
-> NOTE: This will require you to make updates to your personal class repository, instructions on that process can be found [here](https://github.com/AI-Maker-Space/AIE6/00_Setting_Up_Git/README.md)!
+> NOTE: This will require you to make updates to your personal class repository, instructions on that process can be found [here](https://github.com/AI-Maker-Space/AIE6/tree/main/00_Setting%20Up%20Git)!
 
 #### How AIM Does Assignments
 Throughout our time together - we'll be providing a number of assignments. Each assignment can be split into two broad categories:
