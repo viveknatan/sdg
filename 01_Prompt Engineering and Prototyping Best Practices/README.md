@@ -12,14 +12,13 @@
 | [Session 1: Pre-Work](https://www.notion.so/Session-1-Introduction-and-Vibe-Check-1c8cd547af3d81b596bbdfb64cf4fd2f?pvs=4#1c8cd547af3d81fb96b4f625f3f8e3d6)| [Session 1: Introduction and Vibe Check](https://www.notion.so/Session-1-Introduction-and-Vibe-Check-1c8cd547af3d81b596bbdfb64cf4fd2f) | Coming Soon! | Coming Soon! | You Are Here! | Coming Soon! | [AIE6 Feedback 4/1](https://forms.gle/EdzBz82yGqVYKfUw9)
 
 
-
 ### Assignment
 
 In the following assignment, you are required to take the app that you created for the AIE6 challenge (from [this repository](https://github.com/AI-Maker-Space/Beyond-ChatGPT)) and conduct what is known, colloquially, as a "vibe check" on the application. 
 
 You will be required to submit a link to your GitHub, as well as screenshots of the completed "vibe checks" through the provided Google Form!
 
-> NOTE: This will require you to make updates to your personal class repository, instructions on that process can be found [here](https://github.com/AI-Maker-Space/AIE6/00_Setting Up Git/README.md)!
+> NOTE: This will require you to make updates to your personal class repository, instructions on that process can be found [here](https://github.com/AI-Maker-Space/AIE6/00_Setting_Up_Git/README.md)!
 
 #### How AIM Does Assignments
 Throughout our time together - we'll be providing a number of assignments. Each assignment can be split into two broad categories:
